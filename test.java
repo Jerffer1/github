@@ -4,5 +4,5 @@
  * @description
  */
 public class test {
-    int a = 1;
+    int a = 2;
 }
